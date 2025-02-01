@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy: handling null values in methods with loose typing.  The `bug.groovy` file shows the problem, while `bugSolution.groovy` provides a corrected version.  NullPointerExceptions are a frequent source of bugs in dynamically-typed languages like Groovy, and this example highlights best practices for preventing them.
